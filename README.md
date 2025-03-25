@@ -1,6 +1,7 @@
 # Certificates & Diplomas
 
 * [ISTQB® Certified Tester – Foundation Level](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/ISTQB%20Cert.pdf)
+* [Recomendation letter CBRF](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/CBRF.jpg)
 * [Certificate of Completion of the Course "Secrets of Testing Management"](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/AIS.pdf)
 * [Introduction to Java](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Java.pdf)
 * [Introduction to Python](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Python.pdf)
