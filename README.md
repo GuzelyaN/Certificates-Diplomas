@@ -6,6 +6,6 @@
 * [Introduction to Java](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Java.pdf)
 * [Introduction to Python](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Python.pdf)
 * [MegaEmployee Award](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/MEGA.pdf)
-* [Recommendation Letter](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Recomendation.pdf)
+* [Recommendation Letter LANIT](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Recomendation.pdf)
 * [Developer Conference Speaker Diploma](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Speaker.pdf)
 * [Gratitude for Contribution to the Development of the Testing Club](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/gratitude.pdf)
