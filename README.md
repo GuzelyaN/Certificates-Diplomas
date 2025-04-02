@@ -1,7 +1,3 @@
-Here's the description in English:
-
----
-
 # Certificates, Diplomas & Recommendations
 
 This repository contains various certificates, diplomas, and recommendation letters that attest to my professional experience and achievements in testing, development, and related fields.
@@ -30,6 +26,3 @@ This repository contains various certificates, diplomas, and recommendation lett
 * [Letter of Recommendation LANIT](https://github.com/GuzelyaN/Certificates-Diplomas/blob/Overview/Recomendation.pdf)  
   Letter of recommendation from LANIT company.
 
----
-
-This repository showcases my professional growth and verifies my qualifications in the fields of testing and development.
